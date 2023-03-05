@@ -1,0 +1,82 @@
+.dias{
+    color: rgb(223, 30, 30); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold; 
+    font-size: larger;
+}
+.turno{
+    color: rgb(1, 15, 7);font-family: Arial, Helvetica, sans-serif
+    ;
+    font-style: italic;
+    font-size: medium;
+}
+
+.logo{
+    border: 2px solid rgb(2, 5, 0);
+    box-sizing: border-box ;
+    margin: 0;
+    padding: 0;
+       background-color: rgb(236, 141, 228);
+       font-family:Georgia, 'Times New Roman', Times, serif;
+       justify-content: center;
+       font-style: italic;
+
+    
+
+}
+.caja1{
+    border: 2px solid rgb(0, 255, 255);
+    box-sizing: border-box;
+    background-color: aquamarine;
+    position: fixed;
+    top: 90px; 
+    right: auto;
+    width: 100%;
+    height: 50px;
+    font-size: medium;
+}
+.caja2{
+    border: 3px solid royalblue;
+    width: 100%;
+    height: 100%;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7La-1NFPhoZWyp-eXaecU0dhkYzt8gxK5yw&usqp=CAU);
+    font-family: Verdana, Geneva, Tahoma, sans-serif; font-style: oblique; font-weight: bold; color: rgb(164, 169, 173); max-width: 100%; 
+    background-size: 100%; margin-top: 0%;
+    
+}
+.header{
+    background-color: rgb(102, 207, 207);
+    width: 100%;
+    height: 200%;
+    margin: 2px;
+
+}
+.footer{
+    border: 2px solid rgb(236, 141, 228);
+    background-color: #a9a9a9;
+    width: 100%;
+    height: 100%;
+}
+.lista{
+list-style: none;
+box-sizing: border-box;
+}
+.body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToF-htWL-N3E0dI8CWNW5IQOODXOm7eotTcA&usqp=CAU);
+}
+.tabla{
+    border: 3px solid blue;
+    background-color:rgb(164, 169, 173);
+}
+
+img{
+    position: absolute;
+   margin-top: 2px; margin-right: 2px;
+}
+
+.aside{
+    border: 2px ;
+    width: 50px;
+  position:absolute;  right: 2px; top: 200px;
+    
+}
